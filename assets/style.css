@@ -1,15 +1,35 @@
 header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #ff7f50
-    
+    background-color: #ff7f50; 
+    position: fixed 0 0 0 0;   
+}
+
+h1 {
+    text-align: center;
+    display: relative;
+   
+}
+.L1 {
+    display: inline;
+   
 }
 
 main {
     background-color: floralwhite;
     
 }
+img {
+   position: relative;
+   left: 900px;
+}
+
+section {
+background-color: #e0ded9;
+}
 
 form {
-background-color: #e0ded9;
-
+  
+}
+footer {
+    text-align: center;
 }
